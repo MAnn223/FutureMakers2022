@@ -13,3 +13,5 @@ Day 6 Reflection: I learned about Convolutional Neural Networks and its differen
 Day 7 Reflection: Today I learned about biases in machine learning including the causes, types, and what we can do to try and prevent bias in machine learning models. It was interesting to see an example of how a model becomes biased through the Survival of the Best Fit game simulation.
 
 Day 8: I learned more about Convolutional Neural Networks including convolution layers, learned filters, dropout, and batch norm.  
+
+Day 9: I learned about loss functions and what types of loss functions to use depending on the problem. I also learned about optimizers to help minimize the loss function. 
