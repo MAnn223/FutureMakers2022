@@ -15,3 +15,9 @@ Day 7 Reflection: Today I learned about biases in machine learning including the
 Day 8: I learned more about Convolutional Neural Networks including convolution layers, learned filters, dropout, and batch norm.  
 
 Day 9: I learned about loss functions and what types of loss functions to use depending on the problem. I also learned about optimizers to help minimize the loss function. 
+
+Day 10: I learned about activation functions and how to know when to use which activation function depending on the problem at hand.
+
+Day 11: I learned about ethics in the area of machine learning and looked at ML algorithms in different areas.
+
+Day 12: I learned about image classification and its strucutre as well as SVMs. I also learned some challenges that come with image classification.
