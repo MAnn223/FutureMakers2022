@@ -21,3 +21,5 @@ Day 10: I learned about activation functions and how to know when to use which a
 Day 11: I learned about ethics in the area of machine learning and looked at ML algorithms in different areas.
 
 Day 12: I learned about image classification and its strucutre as well as SVMs. I also learned some challenges that come with image classification.
+
+Day 13: I learned about overfitting vs underfitting and how to reduce overfitting through methods like regularization.
