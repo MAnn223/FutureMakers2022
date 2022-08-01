@@ -23,3 +23,11 @@ Day 11: I learned about ethics in the area of machine learning and looked at ML 
 Day 12: I learned about image classification and its strucutre as well as SVMs. I also learned some challenges that come with image classification.
 
 Day 13: I learned about overfitting vs underfitting and how to reduce overfitting through methods like regularization.
+
+Day 14: Today I learned about autoencoders, upsampling, and downsampling.
+
+Day 15: I learned about affective computing and emotion AI.
+
+Day 16: I learned about NLP and practiced tokenization, bag of words, stop words removal, lemmetization, etc.
+
+Day 17: I learned about Computer Vision and worked with the Fashion MINST dataset to learn more about GANs.
